@@ -18,6 +18,8 @@ main  main
 
 !［百度logo］(http://www.baidu.com/img/bdlogo.gif)
 
+![baidulogo](http://www.baidu.com/img/bdlogo.gif)
+
 ![][foryou]
     
     
