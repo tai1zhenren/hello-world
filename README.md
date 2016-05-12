@@ -14,4 +14,7 @@ main  main
 
     单行文本
     
+图片
+！［百度logo］(http://www.baidu.com/img/bdlogo.gif)
+    
     
