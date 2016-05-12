@@ -16,9 +16,9 @@ main  main
     
 图片
 
-!［百度logo］(http://www.baidu.com/img/bdlogo.gif)
+!［百度logo］(http://www.baidu.com/img/bdlogo.gif) 
 
-![baidulogo](http://www.baidu.com/img/bdlogo.gif)
+
 
 ![myimg](http://www.downxia.com/uploadfiles/2015/0916/20150916020244559.jpg)
 
